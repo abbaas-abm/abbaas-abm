@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abbaas Mhlongo</h1>
-<h3 align="center">A passionate frontend developer from South Africa</h3>
+<h3 align="center">A passionate Frontend Developer and AI/ML enthusiast from South Africa</h3>
 
 <p align="left"> <a href="https://twitter.com/abbaas_abm" target="blank"><img src="https://img.shields.io/twitter/follow/abbaas_abm?logo=twitter&style=for-the-badge" alt="abbaas_abm" /></a> </p>
 
